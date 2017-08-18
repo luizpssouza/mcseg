@@ -102,3 +102,6 @@ ENV/
 
 #angular
 node_modules/
+
+#Vscode settings
+.vscode/
